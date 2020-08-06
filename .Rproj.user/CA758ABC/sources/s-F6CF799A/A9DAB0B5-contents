@@ -65,7 +65,7 @@ ggplotly()
 
 
 # MAP OF UBER REQUESTS IN MEXICO CITY
-register_google(key = "AIzaSyDJr4hGFIWNdUOv3wGZ10rJXnB5r4wE0dI")
+register_google(key = "YOUR_API_KEY")
 MexicoCity <- subset(myTrips, City=="Mexico City")
 ggmap(get_map(location = "Mexico City", zoom=11, maptype = "roadmap")) + 
   geom_point(aes(Begin.Trip.Lng, Begin.Trip.Lat), data=MexicoCity, color = I('Red'), size = I(2), zoom=11) +

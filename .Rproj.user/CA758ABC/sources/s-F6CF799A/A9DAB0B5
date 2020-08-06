@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3837225299",
+    "hash" : "3106170819",
     "id" : "A9DAB0B5",
-    "lastKnownWriteTime" : 1596677042,
-    "last_content_update" : 1596677042,
+    "lastKnownWriteTime" : 1596679811,
+    "last_content_update" : 1596679811066,
     "path" : "~/Downloads/r-uber-trips-analyisis/main.R",
     "project_path" : "main.R",
     "properties" : {
-        "cursorPosition" : "19,0",
-        "scrollLine" : "11"
+        "cursorPosition" : "69,26",
+        "scrollLine" : "57"
     },
     "read_only" : false,
     "read_only_alternatives" : [
