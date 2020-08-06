@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596678841422.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3837225299",
+    "id" : "A9DAB0B5",
+    "lastKnownWriteTime" : 1596677042,
+    "last_content_update" : 1596677042,
+    "path" : "~/Downloads/r-uber-trips-analyisis/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "11"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
