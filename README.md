@@ -3,3 +3,7 @@ Explore your activity on Uber with R: How to analyze and visualize your personal
 
 ### *Versión en español*
 Explora tu actividad en Uber con R: Análisis y visualización de datos de tu historial. Descubre cómo y cuánto has consumido de Uber, usando una copia de tus datos personales. Artículo en Medium: https://medium.com/@cosmoduende/explora-tu-actividad-en-uber-con-r-an%C3%A1lisis-y-visualizaci%C3%B3n-de-datos-de-tu-historial-4a7317b3158b
+
+#### *Project preview*
+https://www.youtube.com/watch?v=0kxEJBxs7mA
+
